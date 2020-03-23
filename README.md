@@ -1,2 +1,3 @@
 # Computer-Vision-Coursework
-Computer vision coursework
+
+This is a repository for coursework of computer vision course, covering different topics
